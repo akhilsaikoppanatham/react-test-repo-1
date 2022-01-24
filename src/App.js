@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+         This is Akhil First react project on the new m1 macbook Air
         </p>
       
         <a
@@ -16,8 +16,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React bh
+          Welcome to Boston
         </a>
+        
+        
       </header>
     </div>
   );
