@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         This is Akhil First react project on the new m1 macbook Air
+         This is Akhil First react project on the new m1 lavda Air
         </p>
       
         <a
